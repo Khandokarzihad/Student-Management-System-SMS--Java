@@ -1,0 +1,10 @@
+410,Abdur,BSc. in CSE,68,dfkfds12d,3.91
+610,Shadhin,BSc. in CSE,68,lklkjl21d,3.6
+410,Abdur,BSc. in cse,68,ghfghfd,3.91
+623,Zakia,BSc. in CSE,68,djdjj,3.2
+602,Zihad,BSc. in CSE,68,hfkjhg,4.0
+322,Karim,BSc. in CSE,54,gdfgfhlka,3.5
+211,Siam,BSc. in CSE,64,242426,4.0
+255,Antor,BSc. in CSE,64,La123ca,4.0
+350,Alice,BSc. in CSe,68,adsfdf,3.6
+444,David,BSc. in CSE,68,fdghfhfghda,3.8
