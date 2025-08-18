@@ -2,7 +2,7 @@ name: Java CI with Ant
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main" ]   # Runs whenever you push to main
   pull_request:
     branches: [ "main" ]
 
@@ -20,9 +20,15 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Build, Run & Create JAR
+      - name: Build with Ant
         run: |
           ant clean
           ant compile
-          ant run
           ant jar
+          ant run
+
+      - name: Upload JAR file
+        uses: actions/upload-artifact@v3
+        with:
+          name: StudentManagementSystem
+          path: dist/StudentManagementSystem.jar
