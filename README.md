@@ -72,7 +72,7 @@ It allows **admins** to manage students, courses, and authentication securely, a
 ## ⚙️ How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https: https://github.com/Khandokarzihad/Student-Management-System-SMS--Java.git
    
 2. Open in any Java IDE (IntelliJ, Eclipse, VS Code, etc.) or compile via terminal:
 
